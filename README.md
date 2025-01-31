@@ -17,7 +17,7 @@ Follow these steps to clone and run the project locally:
 
 ```sh
 # Clone the repository
-git clone https://github.com/yourusername/ecommerce-store.git
+git clone https://github.com/Romi58/Next.js_Milestone_5.git
 
 # Navigate to the project directory
 cd ecommerce-store
